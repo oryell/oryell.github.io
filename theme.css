@@ -16,3 +16,12 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+.jumbotron{
+	background-image: url(Flowers-Photos-8-Cool-Wallpapers-HD.jpg);
+	color: white!important;
+}
+
+.lead{
+	color:blue!important;
+}
